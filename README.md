@@ -1,3 +1,12 @@
+# Regarding the NOT-found issue in the render link
+The link shared is wrong to get to the website working use this link:
+https://skill-overview.onrender.com/
+
+Thank you for your understanding.
+The problem was the shared link was : https://skill-overview.onrender.com/aws . not the one pointing to the root of the website. 
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
